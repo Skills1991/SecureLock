@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile OS evo</string>
+    <string name="ev_ios">Эволюция iOS</string>
+    <string name="ev_android">Эволюция Android</string>
+    <string name="progDesc">Програма- довідник по безпеці операційної системи Android</string>
+    <string name="title_activity_log">Журнал</string>
+    <string name="scaning">SecureLock</string>
+    <string name="about">Версія програми 2.0\nАвтор: Нікітенко Богдан </string>
+    <string name="about_land">Версія програми 2.0 Автор: Нікітенко Богдан </string>
+
+</resources>
